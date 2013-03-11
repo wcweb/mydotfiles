@@ -1428,18 +1428,20 @@ $
 	'76wtgdfsjhsydt7r5FFGFhgsdfytd656sad75fg
 
 # File marks:
-'0  6  12  ~/.gitignore
-'1  4  5  ~/.gitignore
-'2  2  5  ~/.gitignore
-'3  2  3  ~/.gitignore
-'4  2  0  ~/.gitignore_global
-'5  8  0  ~/NERD_tree_2
-'6  5  6  ~/.git/.gitignore
-'7  2  15  ~/.oh-my-zsh/.git/MERGE_MSG
-'8  3  11  ~/.oh-my-zsh/.git/COMMIT_EDITMSG
-'9  1  0  ~/.ssh/id_rsa.pub
+'0  1  10  ~/.git/COMMIT_EDITMSG
+'1  1  0  ~/.gitconfig
+'2  6  12  ~/.gitignore
+'3  4  5  ~/.gitignore
+'4  2  5  ~/.gitignore
+'5  2  3  ~/.gitignore
+'6  2  0  ~/.gitignore_global
+'7  8  0  ~/NERD_tree_2
+'8  5  6  ~/.git/.gitignore
+'9  2  15  ~/.oh-my-zsh/.git/MERGE_MSG
 
 # Jumplist (newest first):
+-'  1  10  ~/.git/COMMIT_EDITMSG
+-'  1  0  ~/.gitconfig
 -'  6  12  ~/.gitignore
 -'  1  0  ~/.gitignore
 -'  4  5  ~/.gitignore
@@ -1537,9 +1539,17 @@ $
 -'  2  0  ~/Documents/learning/python/vpan/app/static/Kickstrap/bootstrap/less/forms.less
 -'  1  0  ~/Documents/learning/python/vpan/app/static/Kickstrap/bootstrap/less/forms.less
 -'  41  46  ~/Documents/learning/python/vpan/app/templates/login.html
--'  40  45  ~/Documents/learning/python/vpan/app/templates/login.html
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	"	1	10
+	^	1	11
+	.	1	11
+	+	1	11
+
+> ~/.gitconfig
+	"	1	0
 
 > ~/.gitignore
 	"	6	12
@@ -3170,32 +3180,3 @@ $
 
 > ~/Documents/learning/python/vpan/virtualenv.py
 	"	1027	0
-
-> ~/Documents/learning/python/vpan/run.py
-	"	1	0
-
-> ~/Documents/learning/python/vpan/app/templates/user.html
-	"	1	0
-	^	12	67
-	.	12	66
-	+	15	27
-	+	17	11
-	+	25	14
-	+	23	11
-	+	21	83
-	+	22	7
-	+	22	0
-	+	21	11
-	+	20	7
-	+	19	11
-	+	18	7
-	+	16	61
-	+	15	16
-	+	16	12
-	+	15	25
-	+	39	0
-	+	39	0
-	+	29	0
-	+	38	0
-	+	36	0
-	+	12	66
