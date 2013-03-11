@@ -1,0 +1,23 @@
+" Color theme
+
+"Bundle 'sjl/badwolf'
+"colorscheme  ir_black
+"colorscheme badwolddf
+"colorscheme desert
+colorscheme Tomorrow-Night
+
+Bundle 'surround.vim'
+Bundle 'scrooloose/nerdcommenter'
+Bundle 'kchmck/vim-coffee-script'
+Bundle 'groenewege/vim-less'
+Bundle 'tpope/vim-pathogen'
+"Bundle 'cakebaker/scss-syntax.vim'
+Bundle 'lint.vim'
+Bundle 'tpope/vim-haml'
+Bundle 'mattn/zencoding-vim'
+Bundle 'juvenn/mustache.vim'
+Bundle 'skammer/vim-css-color'
+Bundle 'hail2u/vim-css3-syntax'
+Bundle 'vim-scripts/taglist.vim'
+" Bundle 'vim-scripts/ShowFunc.vim'
+" Bundle 'adimit/prolog.vim'
